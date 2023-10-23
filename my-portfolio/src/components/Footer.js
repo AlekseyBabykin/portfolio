@@ -12,7 +12,6 @@ const Footer = () => {
         <FaceBookIcon />
         <LinkedInIcon />
       </div>
-      <p>@copy; 2022 pedrotech</p>
     </div>
   );
 };
