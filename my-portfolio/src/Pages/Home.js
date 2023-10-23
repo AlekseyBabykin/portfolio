@@ -10,12 +10,14 @@ const Home = () => {
       <div className="about">
         <h2>Hi, my name is Aleksei</h2>
         <div className="prompt">
-          <p>A fullStack developer with a passion for learning and creating.</p>
+          <p>A FullStack developer with a passion for learning and creating.</p>
           <a href="https://www.linkedin.com/in/aleksei-babykin-19002024b/">
             <LinkedInIcon />
           </a>
           <EmailIcon />
-          <GitHubIcon />
+          <a href="https://github.com/AlekseyBabykin">
+            <GitHubIcon />
+          </a>
         </div>
       </div>
       <div className="skills">
