@@ -25,12 +25,12 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
-            <span> HTML, CSS, ReactJS,BootStrap,Ionic,StyledComponents</span>
+            <span> HTML, CSS, ReactJS, BootStrap, Ionic, StyledComponents</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, Python-Django, mySQL, PGAdmin (Postgres),SQL/noSQl
+              NodeJS, Python-Django, mySQL, PGAdmin (Postgres), SQL/noSQl , AWS
             </span>
           </li>
           <li className="item">

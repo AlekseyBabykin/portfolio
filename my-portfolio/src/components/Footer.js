@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
+        <InstagramIcon style={{ paddingTop: 15 }} />
         <FaceBookIcon />
         <LinkedInIcon />
       </div>
