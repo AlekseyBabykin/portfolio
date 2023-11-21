@@ -10,7 +10,12 @@ const Home = () => {
       <div className="about">
         <h2>Hi, my name is Aleksei</h2>
         <div className="prompt">
-          <p>A FullStack developer with a passion for learning and creating.</p>
+          <p>
+            I'm a Full Stack Developer with a background in both server-side and
+            client-side in the field of web development. My technical skills are
+            complemented by a creative approach to problem-solving, allowing me
+            to find innovative solutions to address business needs effectively.
+          </p>
           <a href="https://www.linkedin.com/in/aleksei-babykin-19002024b/">
             <LinkedInIcon />
           </a>
@@ -25,17 +30,18 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
-            <span> HTML, CSS, ReactJS, BootStrap, Ionic, StyledComponents</span>
+            <span>HTML, CSS, ReactJS, BootStrap, Ionic, StyledComponents</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
               NodeJS, Python-Django, mySQL, PGAdmin (Postgres), SQL/noSQl , AWS
+              : (SNS, SQS, S3, RDS, Lambda)
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, Python, Java, C++</span>
+            <span>JavaScript,TypeScript, Python, Java</span>
           </li>
         </ol>
       </div>
